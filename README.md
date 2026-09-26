@@ -1,5 +1,7 @@
 # budget
 
+![demo](https://raw.githubusercontent.com/kuzenishh/budget/main/budget-demo.gif)
+
 Your coding agent session ate a few million tokens. You have no idea where.
 
 `budget` reads the `.jsonl` transcript Claude Code already writes to disk and
